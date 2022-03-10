@@ -1,3 +1,8 @@
 {
-	"java.project.sourcePaths": ["Esercizi-base/src", "data-types/src"]
+	"java.project.sourcePaths": [
+		"data-types/src",
+		"Input-Scanner-library/src",
+		"Esercizi-base/src",
+		"Variabili-di-esemplare/src"
+	]
 }
