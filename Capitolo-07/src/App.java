@@ -70,7 +70,7 @@ public class App {
 
         lazy evaluation || great stuff I guess
 
-        semplifica gli && || ! nelle condizioni sfruttando la legge di demorgan
+        semplifica gli && || ! nelle condizioni sfruttando la legge di de morgan
         */
     }
 }
